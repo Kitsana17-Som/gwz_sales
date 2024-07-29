@@ -1,2 +1,2 @@
 # gwz_sales
- GreenWeez sales data
+SELECT purchase_cost FROM gwz_sales 
